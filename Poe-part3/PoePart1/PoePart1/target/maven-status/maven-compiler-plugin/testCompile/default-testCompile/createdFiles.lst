@@ -1,0 +1,6 @@
+org\junit\Assert.class
+com\mycompany\poepart1\MessageStorageTest.class
+com\mycompany\poepart1\LoginTest.class
+org\junit\Test.class
+com\mycompany\poepart1\MessageArrayStorageTest.class
+com\mycompany\poepart1\MessageSystemTest.class
